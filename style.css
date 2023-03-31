@@ -179,11 +179,11 @@ h1{
     text-align: center;
 }
 @media screen and (max-width: 480px) {
-	main {
+	#heading {
 		flex-direction: column;
 	}
 
-	section {
+	.para1 {
 		flex-basis: 100%;
 	}
 }
